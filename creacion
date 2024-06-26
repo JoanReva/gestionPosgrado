@@ -1,0 +1,4 @@
+npm create vite@latest
+    React   JavaScript
+npm install -D tailwindcss
+npx tailwindcss init

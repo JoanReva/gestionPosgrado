@@ -1,1 +1,1 @@
-# gestionPosgrado
+# React + Vite + TailWind
